@@ -39,7 +39,7 @@ namespace ChickensAPI.Controllers
 
             return new ObjectResult(chicken);
         }
-        [HttpGet("FromUser", Name = "GetEggsFromUser")]
+        [HttpGet("FromUser", Name = "GetChickenFromUser")]
         public IEnumerable<Chicken> Get(User userfromreq)
         {
             return chickenRep.Get(userfromreq);

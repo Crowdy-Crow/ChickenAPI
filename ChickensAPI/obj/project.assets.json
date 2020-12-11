@@ -5803,11 +5803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Projects\\ChickensAPI\\ChickensAPI\\ChickensAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Projects\\Новая папка (2)\\ChickenAPI\\ChickensAPI\\ChickensAPI.csproj",
       "projectName": "ChickensAPI",
-      "projectPath": "C:\\Users\\Alex\\Desktop\\Projects\\ChickensAPI\\ChickensAPI\\ChickensAPI.csproj",
+      "projectPath": "C:\\Users\\Alex\\Desktop\\Projects\\Новая папка (2)\\ChickenAPI\\ChickensAPI\\ChickensAPI.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Desktop\\Projects\\ChickensAPI\\ChickensAPI\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Desktop\\Projects\\Новая папка (2)\\ChickenAPI\\ChickensAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",

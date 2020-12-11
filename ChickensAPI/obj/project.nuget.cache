@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYLLAAakkZeKY1Bri1FFUUhhLKHBfgz3g3kD+emnd0V/e//vVN4fZTYbXAcj4GLaXUHX7+/vuMEJP5jfki6E0g==",
+  "dgSpecHash": "s2NB3/XoXk39WK9L6AkVj2ilXIS8Er23MQTeunhkc1Zgw/TsN53rPViGT9twWxebuJs3aoOQAe42WX6wtDdg+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Projects\\ChickensAPI\\ChickensAPI\\ChickensAPI.csproj",
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Projects\\Новая папка (2)\\ChickenAPI\\ChickensAPI\\ChickensAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
