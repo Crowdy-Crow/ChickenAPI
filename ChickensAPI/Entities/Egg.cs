@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ChickensAPI.Entities
 {
-    public class Egg : AbstractEntity
+    public class Egg
     {
         public int Id { get; set; }
         public double Mass { get; set; }

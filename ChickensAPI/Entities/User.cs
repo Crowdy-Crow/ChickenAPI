@@ -5,11 +5,10 @@ using System.Threading.Tasks;
 
 namespace ChickensAPI.Entities
 {
-    public class User : AbstractEntity
+    public class User
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Password { get; set; }
         public Chicken chicken;
         public List<Egg> eggs = new List<Egg>();
         public Chicken FirstChicken()
