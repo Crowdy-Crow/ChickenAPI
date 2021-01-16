@@ -5803,11 +5803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Projects\\Новая папка (2)\\ChickenAPI\\ChickensAPI\\ChickensAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Projects\\ChickenAPI\\ChickensAPI\\ChickensAPI.csproj",
       "projectName": "ChickensAPI",
-      "projectPath": "C:\\Users\\Alex\\Desktop\\Projects\\Новая папка (2)\\ChickenAPI\\ChickensAPI\\ChickensAPI.csproj",
+      "projectPath": "C:\\Users\\Alex\\Desktop\\Projects\\ChickenAPI\\ChickensAPI\\ChickensAPI.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Desktop\\Projects\\Новая папка (2)\\ChickenAPI\\ChickensAPI\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Desktop\\Projects\\ChickenAPI\\ChickensAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5822,6 +5822,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -5833,6 +5834,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -5867,7 +5869,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12,7 +12,7 @@ namespace ChickensAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class ChickenController
+    public class ChickenController : Controller
     {
         ChickensRep chickenRep;
 
